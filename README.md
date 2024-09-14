@@ -5,8 +5,7 @@ Předmět Algoritmy a Programování na Fakultě Elektrotechnické ČVUT
 Cílem předmětu je dát studentům základní znalost programování a algoritmizace a naučit je navrhnout, implementovat a otestovat programy pro řešení jednoduchých úloh. Studenti pochopí význam časové složitosti. Seznámí se se základními stavebními prvky programů, jako jsou smyčky, podmíněné příkazy, proměnné, rekurze, funkce atd. V předmětu postupně představíme nejpoužívanější datové struktury a operace s nimi (např. fronta, zásobník, seznam, pole, atd.) a ukážeme základní klasické a praktické algoritmy, zejména z oblasti řazení a vyhledávání a prohledávání stavového prostoru. Studenti se seznámí s jazykem Python a naučí se v něm psát jednoduché programy.
 
 
-### List of homeworks:
-
+### Domácí úkoly:
 - [HW_00](homeworks/hw_00/hw_00.md) - Součet třetích mocnin, test odevzdávacího systému
 - [HW_01](homeworks/hw_01/hw_01.md) - Součet mocnin posloupnosti čísel/Součet nejdelší posloupnosti čísel podle zadaných
 - [HW_02](homeworks/hw_02/hw_02.md) - Logaritmus zadaného čísla/Násobení v zadané číselné soustavě
@@ -18,5 +17,14 @@ Cílem předmětu je dát studentům základní znalost programování a algorit
 - [HW_08](homeworks/hw_08/hw_08.md) - Hledání cest mezi prostějšími stranami TRAX/Hledání cyklů TRAX
 - [HW_09](homeworks/hw_09/hw_09.md) - Hledání cesty robota/Pohyb šachového koně
 - [HW_10](homeworks/hw_10/hw_10.md) - RSA šifrování/RSA dešifrování
+
+### Semestrální práce
+- [Trax](semestral/trax.md) - Turnaj mezi studenty ve hře Trax
+
+### Semestrální testy
+- [Test 1](tests/qt1/qtpostfix.pdf)
+- [Test 2](tests/qt2/qtpoly.pdf)
+- [Test 3](tests/qt3/qt3points.pdf)
+
 
 
